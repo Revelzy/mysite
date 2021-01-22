@@ -1,1 +1,1 @@
-#kyxta.pythonanywhere.com
+# https://revelzy.github.io/mysite/
