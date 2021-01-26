@@ -28,6 +28,11 @@ def terms():
 @app.route('/privacy')
 def privacy():
     return flask.render_template("privacy.html")
+
+
+@app.route('/converter')
+def converter():
+    return flask.render_template("converter.html")
     
 
 if __name__ == '__main__':
